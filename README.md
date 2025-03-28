@@ -1,5 +1,3 @@
-ССЫЛКА НА ЗАДАНИЕ: https://docs.google.com/document/d/1aWehfTOY9S-M5WnLujPcFHy5X3x8vgkRPenTn8cv_Cs/edit?hl=ru&tab=t.0
-
 Описание лабораторной работы №2
 Введение
 В данном задании необходимо реализовать медицинскую информационную систему.
