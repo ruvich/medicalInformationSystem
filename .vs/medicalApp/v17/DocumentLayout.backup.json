@@ -1,0 +1,528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\controllers\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\controllers\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\controllers\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\controllers\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\controllers\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\controllers\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\controllers\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\controllers\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\controllers\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\controllers\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\authorizecheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\authorizecheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\inspectiondatabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\inspectiondatabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\consultationdatabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\consultationdatabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\specialitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\specialitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\inspectionchainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\inspectionchainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\inspectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\inspectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\diagnosisdatabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\diagnosisdatabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\diagnosismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\diagnosismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\icd10databasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\icd10databasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\inspectionpagedlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\inspectionpagedlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\consultationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\consultationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\diagnosistype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\diagnosistype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\icd10model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\icd10model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\pageinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\pageinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\inspectionshortmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\inspectionshortmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\inspectioneditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\inspectioneditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\diagnosiscreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\diagnosiscreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\commenteditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\commenteditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\doctoreditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\doctoreditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|f:\\backproject\\webnet-2024_aspnet_1\\medicalapp\\medicalapp\\models\\consultationcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8B2DA-FF28-4A21-9105-8F7E14AC7839}|medicalApp\\medicalApp.csproj|solutionrelative:medicalapp\\models\\consultationcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Patient.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Controllers\\Patient.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Patient.cs",
+              "RelativeToolTip": "medicalApp\\Controllers\\Patient.cs",
+              "ViewState": "AgIAAN8BAAAAAAAAAAAhwIcBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:10:33.621Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inspection.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Inspection.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Controllers\\Inspection.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Inspection.cs",
+              "RelativeToolTip": "medicalApp\\Controllers\\Inspection.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAApwBUBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:32:26.585Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Consultation.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Controllers\\Consultation.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Consultation.cs",
+              "RelativeToolTip": "medicalApp\\Controllers\\Consultation.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAcwAEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:14:25.451Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDataContext.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Data\\AppDataContext.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Data\\AppDataContext.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Data\\AppDataContext.cs",
+              "RelativeToolTip": "medicalApp\\Data\\AppDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:58:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Doctor.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Controllers\\Doctor.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Doctor.cs",
+              "RelativeToolTip": "medicalApp\\Controllers\\Doctor.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:05:33.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Dictionary.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Controllers\\Dictionary.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\Dictionary.cs",
+              "RelativeToolTip": "medicalApp\\Controllers\\Dictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:22:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Icd10DataBaseModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\Icd10DataBaseModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\Icd10DataBaseModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\Icd10DataBaseModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\Icd10DataBaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:21:03.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DiagnosisDataBaseModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DiagnosisDataBaseModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\DiagnosisDataBaseModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DiagnosisDataBaseModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\DiagnosisDataBaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:55:33.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Services\\AuthService.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "medicalApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:57:06.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Program.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Program.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Program.cs",
+              "RelativeToolTip": "medicalApp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:31:36.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InspectionChainModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionChainModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\InspectionChainModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionChainModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\InspectionChainModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:13:51.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpecialityModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\SpecialityModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\SpecialityModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\SpecialityModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\SpecialityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:12:14.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DoctorModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\DoctorModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DoctorModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\DoctorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:11:49.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\appsettings.json",
+              "RelativeDocumentMoniker": "medicalApp\\appsettings.json",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\appsettings.json",
+              "RelativeToolTip": "medicalApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T08:58:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizeCheckFilter.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\AuthorizeCheckFilter.cs",
+              "RelativeDocumentMoniker": "medicalApp\\AuthorizeCheckFilter.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\AuthorizeCheckFilter.cs",
+              "RelativeToolTip": "medicalApp\\AuthorizeCheckFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:11:05.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultationDataBaseModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\ConsultationDataBaseModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\ConsultationDataBaseModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\ConsultationDataBaseModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\ConsultationDataBaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:33:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InspectionDataBaseModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionDataBaseModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\InspectionDataBaseModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionDataBaseModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\InspectionDataBaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:55:24.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiagnosisModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DiagnosisModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\DiagnosisModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DiagnosisModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\DiagnosisModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:50:10.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InspectionModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\InspectionModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\InspectionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:57:44.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "medicalApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:05:18.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InspectionPagedListModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionPagedListModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\InspectionPagedListModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionPagedListModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\InspectionPagedListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:52:41.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsultationModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\ConsultationModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\ConsultationModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\ConsultationModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\ConsultationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:15:25.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiagnosisType.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DiagnosisType.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\DiagnosisType.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DiagnosisType.cs",
+              "RelativeToolTip": "medicalApp\\Models\\DiagnosisType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:30:53.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PageInfoModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\PageInfoModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\PageInfoModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\PageInfoModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\PageInfoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:54:04.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Icd10Model.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\Icd10Model.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\Icd10Model.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\Icd10Model.cs",
+              "RelativeToolTip": "medicalApp\\Models\\Icd10Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:21:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DiagnosisCreateModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DiagnosisCreateModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\DiagnosisCreateModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DiagnosisCreateModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\DiagnosisCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:22:54.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InspectionEditModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionEditModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\InspectionEditModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionEditModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\InspectionEditModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:58:09.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InspectionShortModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionShortModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\InspectionShortModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\InspectionShortModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\InspectionShortModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:41:24.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommentEditModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\CommentEditModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\CommentEditModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\CommentEditModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\CommentEditModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:11:12.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorEditModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DoctorEditModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\DoctorEditModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\DoctorEditModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\DoctorEditModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:52:39.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConsultationCreateModel.cs",
+              "DocumentMoniker": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\ConsultationCreateModel.cs",
+              "RelativeDocumentMoniker": "medicalApp\\Models\\ConsultationCreateModel.cs",
+              "ToolTip": "F:\\backProject\\webNET-2024_aspnet_1\\medicalApp\\medicalApp\\Models\\ConsultationCreateModel.cs",
+              "RelativeToolTip": "medicalApp\\Models\\ConsultationCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:16:30.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
